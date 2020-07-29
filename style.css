@@ -1,3 +1,13 @@
 body {
     text-align: center;
+    background-color: pink;
+}
+
+h1 {
+    font-family: fantasy;
+    color: dimgrey;
+}
+
+img {
+    border: solid deeppink;
 }
